@@ -1,5 +1,0 @@
-cd /path
-conda --create xxx_name python=3
-activate xxx_name
-jupyter notebook
-deactivate xxx_name
